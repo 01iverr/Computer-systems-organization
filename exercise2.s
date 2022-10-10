@@ -1,4 +1,3 @@
-# AM:3190167 
 .text
 .globl __start
 __start:
